@@ -1,6 +1,6 @@
 ## Dependency Remediation Strategy
 
-Before starting, fetch the latest changes from origin/main.
+Before starting, fetch the latest changes from `origin/main`. Rebase the PR if necessary to avoid conflicts.
 
 If the fetch fails, stop immediately and report the error.
 
